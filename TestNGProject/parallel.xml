@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite>"whatever"
+
+<test>"anything"
+<classes>
+<class>name="/TestNGProject/src/test/java/co/bit/ui/test/RegressionTest.java"
+<methods>
+<include>name ="Basetest"</include>
+</methods>
+</class> 
+</classes>
+</test>
+</suite>
